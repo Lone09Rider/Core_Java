@@ -1,0 +1,20 @@
+It is used to initialize the data of the object
+
+automatically get called when we create constructors
+
+Properties:
+Name = Class Name
+Does not return any value not even void
+    Ex :Public Student()
+        {
+                    // Non Parameterized Constructors
+        }
+
+        Public Student(int id, String Name)
+                {
+                            // Parameterized Constructors
+                }
+
+When java creates automatically - default constructor
+  i.e. When your class does not have any constructor then java creates one default one
+
